@@ -1,2 +1,47 @@
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap');
+
+.karla-font-400 {
+    font-family: 'Karla', sans-serif;
+    font-weight: 400;
+}
+
+.karla-font-700 {
+    font-family: 'Karla', sans-serif;
+    font-weight: 700;
+}
+
+/* Primary Colors */
+
+.cyan {
+    color: hsl(179, 62%, 43%);
+}
+
+.bright-yellow {
+    color: hsl(71, 73%, 54%);
+}
+
+/* Neutral Colors */
+
+.light-gray { 
+    color: hsl(204, 43%, 93%);
+}
+
+.grayish-blue {
+    color: hsl(218, 22%, 67%);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* footer */
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
