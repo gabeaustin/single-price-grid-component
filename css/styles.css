@@ -34,6 +34,15 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: hsl(204, 43%, 93%);
+}
+
+.container {
+    border:hsl(71, 73%, 54%) 1px solid;
+}
+
+.community-container {
+    background-color: #fff;
 }
 
 /* footer */
