@@ -39,10 +39,21 @@ body {
 
 .container {
     border:hsl(71, 73%, 54%) 1px solid;
+    margin: 4rem 2rem;
+    border-radius: 8px;
+    box-shadow: 5px 5px 50px;
 }
 
 .community-container {
     background-color: #fff;
+}
+
+.community-header {
+    padding: 1rem;
+}
+
+.community-cta {
+    padding: 1rem;
 }
 
 /* footer */
